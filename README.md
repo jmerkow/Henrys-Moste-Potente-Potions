@@ -85,6 +85,11 @@ All potions were tested in version:
 25. [Saviour Schnapps](#saviour-schnapps)
 26. [Scattershot Powder](#scattershot-powder)
 27. [Soap](#soap)
+28. [Mandrake Potion (DLC)](#mandrake-potion)
+30. [Anti Inflammatory Potion](#anti-inflammatory-potion)
+29. [Potion of St. Roch](#st-roch-potion)
+30. [Fragrant Oil](#fragrant-oil)
+
 
 ---
 
@@ -1386,3 +1391,129 @@ x2 Thistle
 | Potion Quality | Effect                                        |
 | -------------- | --------------------------------------------- |
 | Standard       | You can't wash your own clothes without soap. |
+
+
+# Recipes from Brushes with death (DLC)
+
+## Mandrake Potion
+TBD
+
+# Recipes from Monastery DLC
+
+## Anti Inflammatory Potion
+*No. XX*
+### Ingredients
+
+'''
+Liquid: Water
+x1 Nettle
+x2 Valerian
+x1 Ginger
+'''
+
+### Instructions [Any Level]
+
+1. Add **Water** to the **Cauldron**
+2. Put **x1 Ginger** into the **Mortar** and **Grind** it
+3. Put the contents of the **Mortar** into the **Dish**
+4. Put **x1 Nettle** into the **Mortar** and **Grind** it
+5. Add the contents of the **Mortar** to the **Cauldron**
+6. **Lower** the **Cauldron**
+7. Pump the **Bellows x1** time
+8. Add **x2 Valerian** to the **Cauldron**
+9. While the animation is playing, repeatedly press the turn **Hourglass** button
+10. Just before the **Hourglass** runs out, turn the **Hourglass** again
+11. Just before the **Hourglass** runs out the 2nd time, **Raise** the **Cauldron**
+12. Add the contents of the **Dish** to the **Cauldron**
+13. **Pour** the contents of the **Cauldron** into a **Phial**
+
+### Quantity
+| No Perks | Secret of Matter I | Secrets of Matter II | Secrets of Matter I + II |
+| -------- | ------------------ | -------------------- | ------------------------ |
+| x3       | x4                 | x5                   | x6                       |
+
+### Effects
+| Potion Quality | Effect                                                                                                                       |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Weak           | Raises Agility and Strength by 1 for 10 minutes.                                                                             |
+| Standard       | Raises Agility and Strength by 2 for 10 minutes.                                                                             |
+| Strong         | Increases Agility and Strength by 2, and increases gained Agility and Strength experience by 10% for 20 minutes.             |
+| Henry's        | Increases Agility and Strength by 3, and increases gained Agility and Strength experience by 25% for 30 minutes.             |
+
+---
+
+##  St. Roch Potion
+*No. XX*
+### Ingredients
+
+'''
+Liquid: Wine
+x2 St. John's Wort
+x1 Ginger
+x2 Chamomile
+'''
+
+### Instructions [Any Level]
+
+1. Add **Wine** to the **Cauldron**
+2. Put **x2 St. John's Wort** into the **Mortar** and **Grind** it
+3. Add the contents of the **Mortar** to the **Cauldron**
+4. Add **x2 Chamomile** to the **Cauldron**
+5. **Lower** the **Cauldron**
+6. Put **x1 Ginger** into the **Mortar** and **Grind** it
+7. Add the contents of the **Mortar** to the **Cauldron**
+8. Pump the **Bellows x1** time
+9. **Raise** the **Cauldron**
+10. **Distil** the contents of the **Cauldron** into a **Phial**
+
+### Quantity
+| No Perks | Secret of Matter I | Secrets of Matter II | Secrets of Matter I + II |
+| -------- | ------------------ | -------------------- | ------------------------ |
+| x3       | x4                 | x5                   | x6                       |
+
+### Effects
+| Potion Quality | Effect                                                                                                                       |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Weak           | Increases Vitality by 1 and healing potions will heal you 15% faster for 20 minutes.                                         |
+| Standard       | Raises Vitality by 1, and healing potions will heal you 30% faster for 20 minutes.                                           |
+| Strong         | Increases Vitality by 2, healing potions will heal you 30% faster, and increases gained Vitality experience by 10% for 30 minutes. |
+| Henry's        | Raises Vitality by 1, and healing potions will heal you 30% faster for 20 minutes.                                           |
+
+---
+
+## Fragrant Oil
+*No. XX*
+### Ingredients
+
+'''
+Liquid: Oil
+x3 Chamomile
+x1 Sage
+x1 Valerian
+'''
+
+### Instructions [Any Level]
+
+1. Add **Oil** to the **Cauldron**
+2. Add **x3 Chamomile** to the **Cauldron**
+3. **Lower** the **Cauldron**
+4. Put **x1 Valerian** into the **Mortar** and **Grind** it
+5. Put the contents of the **Mortar** into the **Dish**
+6. Put **x1 Sage** into the **Mortar** and **Grind** it
+7. Add the contents of the **Mortar** to the **Cauldron**
+8. Add the contents of the **Dish** to the **Cauldron**
+9. **Raise** the **Cauldron**
+10. **Pour** the contents of the **Cauldron** into a **Phial**
+
+### Quantity
+| No Perks | Secret of Matter I | Secrets of Matter II | Secrets of Matter I + II |
+| -------- | ------------------ | -------------------- | ------------------------ |
+| x3       | x4                 | x5                   | x6                       |
+
+### Effects
+| Potion Quality | Effect                                  |
+| -------------- | --------------------------------------- |
+| Weak           | Fragrant oil for purifying the air.     |
+| Standard       | Fragrant oil for purifying the air.     |
+| Strong         | Fragrant oil for purifying the air.     |
+| Henry's        | Fragrant oil for purifying the air.     |
