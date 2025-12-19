@@ -85,10 +85,10 @@ All potions were tested in version:
 25. [Saviour Schnapps](#saviour-schnapps)
 26. [Scattershot Powder](#scattershot-powder)
 27. [Soap](#soap)
-28. [Mandrake Potion (DLC)](#mandrake-potion)
-30. [Anti Inflammatory Potion](#anti-inflammatory-potion)
-29. [Potion of St. Roch](#st-roch-potion)
-30. [Fragrant Oil](#fragrant-oil)
+28. [Mandrake Potion (DLC)](#mandrake-potion-dlc)
+30. [Anti Inflammatory Potion (DLC)](#anti-inflammatory-potion-dlc)
+29. [Potion of St. Roch (DLC)](#st-roch-potion-dlc)
+30. [Fragrant Oil (DLC)](#fragrant-oil-dlc)
 
 
 ---
@@ -1393,25 +1393,23 @@ x2 Thistle
 | Standard       | You can't wash your own clothes without soap. |
 
 
-# Recipes from Brushes with death (DLC)
+# Recipes from DLC
 
-## Mandrake Potion
+## Mandrake Potion (DLC)
 TBD
 
-# Recipes from Monastery DLC
-
-## Anti Inflammatory Potion
+## Anti Inflammatory Potion (DLC)
 *No. XX*
 ### Ingredients
 
-'''
+```
 Liquid: Water
 x1 Nettle
 x2 Valerian
 x1 Ginger
-'''
+```
 
-### Instructions [Any Level]
+### Instructions \[Level 28+?]
 
 1. Add **Water** to the **Cauldron**
 2. Put **x1 Ginger** into the **Mortar** and **Grind** it
@@ -1442,18 +1440,18 @@ x1 Ginger
 
 ---
 
-##  St. Roch Potion
+##  St. Roch Potion (DLC)
 *No. XX*
 ### Ingredients
 
-'''
+```
 Liquid: Wine
 x2 St. John's Wort
 x1 Ginger
 x2 Chamomile
-'''
+```
 
-### Instructions [Any Level]
+### Instructions \[Level 28+?]
 
 1. Add **Wine** to the **Cauldron**
 2. Put **x2 St. John's Wort** into the **Mortar** and **Grind** it
@@ -1477,22 +1475,22 @@ x2 Chamomile
 | Weak           | Increases Vitality by 1 and healing potions will heal you 15% faster for 20 minutes.                                         |
 | Standard       | Raises Vitality by 1, and healing potions will heal you 30% faster for 20 minutes.                                           |
 | Strong         | Increases Vitality by 2, healing potions will heal you 30% faster, and increases gained Vitality experience by 10% for 30 minutes. |
-| Henry's        | Raises Vitality by 1, and healing potions will heal you 30% faster for 20 minutes.                                           |
+| Henry's        | Raises Vitality by 3, and healing potions will heal you 50% faster, and you gain 25% more Vitality experience by 10% for 40 minutes. |
 
 ---
 
-## Fragrant Oil
+## Fragrant Oil (DLC)
 *No. XX*
 ### Ingredients
 
-'''
+```
 Liquid: Oil
 x3 Chamomile
 x1 Sage
 x1 Valerian
-'''
+```
 
-### Instructions [Any Level]
+### Instructions [Level 28+?]
 
 1. Add **Oil** to the **Cauldron**
 2. Add **x3 Chamomile** to the **Cauldron**
@@ -1516,4 +1514,4 @@ x1 Valerian
 | Weak           | Fragrant oil for purifying the air.     |
 | Standard       | Fragrant oil for purifying the air.     |
 | Strong         | Fragrant oil for purifying the air.     |
-| Henry's        | Fragrant oil for purifying the air.     |
+| Henry's        | Fragrant oil for purifying the air. Increased Vitality by 5. However, if you're using another perfume, your charisma decreases by 5.|
