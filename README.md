@@ -1293,6 +1293,8 @@ x1 Nettle
 | Strong         | Saves your game, restores 20 health, and boosts your Strength, Vitality, and Agility by 2 for 3 minutes. |
 | Henry's        | Saves your game, restores 30 health, and boosts your Strength, Vitality, and Agility by 3 for 3 minutes. |
 
+### Notes
+- The fastest way to brew Saviour Schapps is to simply add wine, 1x belladonna, 1x nettle and pour.  No heating or grinding neccessary. 
 ---
 
 ## Scattershot Powder
@@ -1412,18 +1414,16 @@ x1 Ginger
 ### Instructions \[Level 28+?]
 
 1. Add **Water** to the **Cauldron**
-2. Put **x1 Ginger** into the **Mortar** and **Grind** it
-3. Put the contents of the **Mortar** into the **Dish**
-4. Put **x1 Nettle** into the **Mortar** and **Grind** it
-5. Add the contents of the **Mortar** to the **Cauldron**
-6. **Lower** the **Cauldron**
-7. Pump the **Bellows x1** time
-8. Add **x2 Valerian** to the **Cauldron**
-9. While the animation is playing, repeatedly press the turn **Hourglass** button
-10. Just before the **Hourglass** runs out, turn the **Hourglass** again
-11. Just before the **Hourglass** runs out the 2nd time, **Raise** the **Cauldron**
-12. Add the contents of the **Dish** to the **Cauldron**
-13. **Pour** the contents of the **Cauldron** into a **Phial**
+2. Put **x1 Nettle** into the **Mortar** and **Grind** it
+3. Add the contents of the **Mortar** to the **Cauldron**
+4. **Lower** the **Cauldron**
+5. Pump the **Bellows x1** time
+6. Add **x2 Valerian** to the **Cauldron**
+7. Put **x1 Ginger** into the **Mortar** and **Grind** it
+8. Put the contents of the **Mortar** into the **Dish**
+9. While the animation is playing, repeatedly press the **Raise Cauldron** button
+10. Add the contents of the **Dish** to the **Cauldron**
+11. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Quantity
 | No Perks | Secret of Matter I | Secrets of Matter II | Secrets of Matter I + II |
@@ -1477,6 +1477,8 @@ x2 Chamomile
 | Strong         | Increases Vitality by 2, healing potions will heal you 30% faster, and increases gained Vitality experience by 10% for 30 minutes. |
 | Henry's        | Raises Vitality by 3, and healing potions will heal you 50% faster, and you gain 25% more Vitality experience by 10% for 40 minutes. |
 
+### Notes
+- The recipe in the alchemy book is wrong. You need to distill it, even though the recipe calls for pour.
 ---
 
 ## Fragrant Oil (DLC)
