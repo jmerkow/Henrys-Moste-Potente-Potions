@@ -85,7 +85,7 @@ All potions were tested in version:
 25. [Saviour Schnapps](#saviour-schnapps)
 26. [Scattershot Powder](#scattershot-powder)
 27. [Soap](#soap)
-28. [Mandrake Potion (DLC)](#mandrake-potion-dlc)
+28. [Mandrake Decoction (DLC)](#mandrake-decoction-dlc)
 30. [Anti Inflammatory Potion (DLC)](#anti-inflammatory-potion-dlc)
 29. [Potion of St. Roch (DLC)](#st-roch-potion-dlc)
 30. [Fragrant Oil (DLC)](#fragrant-oil-dlc)
@@ -1397,8 +1397,46 @@ x2 Thistle
 
 # Recipes from DLC
 
-## Mandrake Potion (DLC)
-TBD
+## Mandrake Decoction (DLC)
+
+*No. XX*
+### Ingredients
+
+```
+Liquid: Wine
+x1 Mandrake Root
+x2 Sage
+x1 Freshwater Pearl
+```
+
+### Instructions \[Level 28+]
+
+1. Add **Wine** to the **Cauldron**
+2. Put **x2 Sage** into the **Mortar** and **Grind** it
+3. Put the contents of the **Mortar** into the **Dish**
+4. Put **x1 Freshwater Pearl** into the **Mortar** and **Grind** it *(keep in Mortar)*
+5. Add **x1 Mandrake Root** to the **Cauldron**
+6. **Lower** the **Cauldron**
+7. Add the contents of the **Mortar** to the **Cauldron**
+8. Add the contents of the **Dish** to the **Cauldron**
+9. Pump the **Bellows x1** time
+10. **Raise** the **Cauldron**
+11. **Distil** the contents of the **Cauldron** into a **Phial**
+
+### Quantity
+| No Perks | Secret of Matter I | Secrets of Matter II | Secrets of Matter I + II |
+| -------- | ------------------ | -------------------- | ------------------------ |
+| x1       | x2                 | x3                   | x4                       |
+
+### Effects
+| Potion Quality | Effect                                  |
+| -------------- | --------------------------------------- |
+| Weak           | [Effect placeholder]                     |
+| Standard       | [Effect placeholder]                     |
+| Strong         | [Effect placeholder]                     |
+| Henry's        | Quiets down the frightening thoughts and menacing voices. Heals 75 health over 6 hours, raises Vitality by 3, and unblocked hits deplete 10% less Stamina. |
+
+---
 
 ## Anti Inflammatory Potion (DLC)
 *No. XX*
